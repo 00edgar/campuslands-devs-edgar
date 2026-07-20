@@ -37,7 +37,7 @@ Practicar actualización antes de trabajar.
 
 ## Ejemplos
 
-Ejemplo de evidencia: comandos usados, salida breve de `git status` o `git log --oneline`, y explicación de la decisión tomada.
+Ejemplo de evidencia: comandos usados, salida breve de `git status` o ``, y explicación de la decisión tomada.
 
 Los ejemplos no son la única respuesta posible. Úsalos como guía para entender el tipo de entrada, proceso y salida esperada.
 
